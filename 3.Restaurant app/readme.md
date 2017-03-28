@@ -1,4 +1,4 @@
 
 ##output
 
-![Alt text] (http://url/to/restaurant final output.png)
+![Alt text] (assets/output.png)
