@@ -19,3 +19,7 @@ A technique that allows us to set CSS styles that only activate, when the browse
 ##RGBA
 rgba(255,255,255,1)
 instead of 0..F scale, RGBA has 0..255 scale
+
+###
+
+![output](https://cloud.githubusercontent.com/assets/19718351/24408057/450a766c-13ea-11e7-9c0c-288417350b0b.png)
