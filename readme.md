@@ -1,3 +1,7 @@
 ## Project 1
-shows backgroung image
-email, icon
+
+go to each folder and see the final output
+
+or run the code on you local machine
+
+good luck and keep learning
